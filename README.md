@@ -6,6 +6,7 @@
 retrofit2 2.9.0 버전
 room 2.5.0 버전
 
+
 api는 33이상 을 사용할수 있게 만들었습니다.
 그리고 현재 intent의 getParcelableExtra 부분이 업데이트되면서
 
